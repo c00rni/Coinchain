@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.16"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.2",
+    "chai": "^4.3.7"
+  }
+}
